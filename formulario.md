@@ -11,12 +11,12 @@ Muchas veces es necesario escribir sumas y/o diferencias como productos de facto
   - [ ] division.
   - [ ] raiz cubica.
 ---
-Si tenemos $x^2-4=(x-2)(x+2)$ y se dice que $(x-2)$ y $(x+2)$ son factores de $x^2-4$. entonces, si tenemos $y^2-4=(y-2)(y+2)$, cual serian los factores de $y^2-4$
+Si tenemos <img src="https://render.githubusercontent.com/render/math?math=x^2-4=(x-2)(x%2B2)"> y se dice que <img src="https://render.githubusercontent.com/render/math?math=$(x-2)"> y <img src="https://render.githubusercontent.com/render/math?math=(x%2B2)"> son factores de <img src="https://render.githubusercontent.com/render/math?math=x^2-4">. entonces, si tenemos <img src="https://render.githubusercontent.com/render/math?math=y^2-4=(y-2)(y%2B2)">, cual serian los factores de <img src="https://render.githubusercontent.com/render/math?math=y^2-4">
 - respuestas :
-  - [x] $(y-2)$ y $(y+2)$
-  - [ ] 2
-  - [ ] $-4$
-  - [ ] $y^2$
+  - [x] <img src="https://render.githubusercontent.com/render/math?math=(y-2)"> y <img src="https://render.githubusercontent.com/render/math?math=(y%2B2)">
+  - [ ] <img src="https://render.githubusercontent.com/render/math?math=2">
+  - [ ] <img src="https://render.githubusercontent.com/render/math?math=-4">
+  - [ ] <img src="https://render.githubusercontent.com/render/math?math=y^2">
 ---
 Si tenemos $x^2-4=(x-2)(x+2)$ y se dice la factorizacion de $x^2-4$ es $(x-2)$$(x+2)$.entonces, si tenemos $y^2-4=(y-2)(y+2)$, cual seria la factorizacion de $(y-2)(y+2)$
 - respuestas :
