@@ -74,3 +74,9 @@ ______________ : es el factor que está presente en cada término de la suma de 
   - [ ] El 10%
   - [ ] El exponente negativo
   - [ ] El parentesis
+  
+ ¿Cuáles son las partes de la siguiente fracción?
+ <img src="https://render.githubusercontent.com/render/math?math=\frac{5}{9}">
+ - [ ]  El numerador es 9 y el denominador es 5.
+ - [ ]  El numerador es 5 y el denominador es 9.
+ 
