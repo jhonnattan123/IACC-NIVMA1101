@@ -74,7 +74,7 @@ ______________ : es el factor que está presente en cada término de la suma de 
   - [ ] El 10%
   - [ ] El exponente negativo
   - [ ] El parentesis
-  ---
+---
  ¿Cuáles son las partes de la siguiente fracción?. <img src="https://render.githubusercontent.com/render/math?math=\frac{5}{9}">
 - id : d8f76e82-ea95-4eff-a027-e4a3eb3e4149
 - respuestas :
