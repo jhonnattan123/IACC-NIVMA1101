@@ -1,4 +1,3 @@
-# evaluacion 1: FACTORIZACIÓN
 En matemática muy a menudo se trabaja con expresiones que corresponden a sumas o diferencias de términos literales o numéricos.
 - respuestas :
   - [x] verdadero.
@@ -65,8 +64,7 @@ Según la forma de la expresión que se va a factorizar, se debe determinar cuá
   - [x] $(y^2+xy)=y(y+x)$
   - [ ] $(x+x)=(x+x)$
   - [ ] $(x^2)=20(20+y)$
-
-# evaluacion 2: FACTORIZACIÓN FACTOR COMÚN
+---
 ______________ : es el factor que está presente en cada término de la suma de términos algebraicos.
 - id : edbfe5a4-9e7e-482b-85ea-1bb16d6e6629
 - respuestas :
